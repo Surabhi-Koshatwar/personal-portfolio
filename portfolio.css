@@ -2,7 +2,7 @@
     margin-top: 20px;
     margin-bottom: 20px;
     padding: 20px 115px;
-    /* border-radius: 50%; */
+    border-radius: 50px;
     border: 2px solid teal;
     transition-duration: 0.4s;
     color: black;
@@ -74,6 +74,10 @@
     padding-top: 4rem;
 }
 
+.card {
+    box-shadow: 10px 25px 30px gray;
+}
+
 #contact {
     padding-bottom: 4rem;
 }
@@ -102,15 +106,6 @@
     background-color: #808080;
     text-align: center;
 }
-
-
-/* .navbar {
-    background-color: black;
-}
-
-ul {
-    color: white;
-} */
 
 .reveal {
     position: relative;
